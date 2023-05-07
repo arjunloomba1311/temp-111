@@ -6,7 +6,11 @@ Implementation of Round Robin Scheduler for a given workload and quantum length.
 
 ## Building
 
-Open the terminal with a bash session. Navigate to the root directory of the folder. Call Make to compile the c files, and generate the executable.
+Open the terminal with a bash session. Navigate to the root directory of the folder. Call Make to compile the c files, and generate the executable. This is enabled through the makefile
+
+```
+make
+```
 
 ## Running
 
