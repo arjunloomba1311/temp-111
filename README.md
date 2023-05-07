@@ -14,9 +14,12 @@ make
 
 ## Running
 
+After generating the executable you may run the Round Robin Simulation script by passing in two arguments. The first is a text file containing the process serial number, arrival time, burst time, and the total number of processes. The second is the quantum length or time slice. Here's an example on how the code is run:
 
+```
+./rr processes.txt 3
+```
 
-You should get an output in an identical format, but not neccessarily the same numbers.
 ## Cleaning up
 
 To clean up all binary files, you must use the command: make clean. Make sure that you're in the root directory, i.e. the same directory as the makefile.
