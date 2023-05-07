@@ -2,7 +2,7 @@
 
 ## You Spin Me Round Robin
 
-Implementation of Round Robin Scheduler for a given workload and quantum length.
+This is an implementation of Round Robin Scheduler for a given workload and quantum length.
 
 ## Building
 
