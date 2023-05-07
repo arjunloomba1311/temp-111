@@ -36,7 +36,7 @@ The solitary number on the first row represents the number of processes, the fir
 Output is retrieved in terms of the average waiting time and the average response time for the processes.
 
 ```
-.\rr processes.txt 3
+./rr processes.txt 3
 ```
 
 Output is 
