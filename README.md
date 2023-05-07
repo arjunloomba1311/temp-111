@@ -20,7 +20,7 @@ After generating the executable you may run the Round Robin Simulation script by
 ./rr processes.txt 3
 ```
 
-Let's give an example on running processes. Here's a sample text file: 
+Let's give an example on running the script. Here's a sample text file: 
 
 ```
 4
